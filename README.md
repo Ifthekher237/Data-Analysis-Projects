@@ -73,7 +73,3 @@ Welcome to the Data Analysis Projects Repository. This repository showcases two 
 2. Open and explore the Jupyter notebooks for each project.
 
 3. Gain valuable insights and explore data trends.
-
-## Contributions
-Contributions and feedback are welcome! Feel free to submit issues or pull requests if you have any improvements or suggestions.
-
